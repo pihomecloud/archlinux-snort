@@ -1,6 +1,6 @@
 pkgbase = snort
 	pkgdesc = A lightweight network intrusion detection system.
-	pkgver = 2.9.8.0
+	pkgver = 2.9.8.2
 	pkgrel = 1
 	url = http://www.snort.org
 	install = snort.install
